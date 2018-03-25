@@ -57,21 +57,7 @@ def get_longest_no_one():
 
 #get_no_one()
 
-def get_all():
-    
-    all_charts = []    
-    year  = 1954
-    day   = 01
-    month = 01
-
-    while(year < 2018):
-        
-        while(month <= 12):
-            
-            while(day <= 28):
-                    
-                    all_charts.append(billboard.ChartData(hot-100))
-        
+       
 
 
 def test():
